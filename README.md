@@ -13,6 +13,11 @@ This repository contains **MCP (Model Context Protocol) servers** . Each folder 
    - Enables AI models to process professional profile insights.
   
 3. **Fetch PubMed Article Server** 🔗  
+
+4. **Arch Tools Server** 🛠️  
+   - 61 production-ready AI tools (code analysis, web scraping, image generation, NLP, crypto, search).  
+   - Remote MCP server with x402 USDC micropayments. MCP endpoint: `https://arch-tools-mcp.onrender.com/mcp`  
+   - Website: [archtools.dev](https://archtools.dev)
    - Retrieves articles from PubMed given a query.  
 
 ## 🛠️ How to Use  
