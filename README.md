@@ -12,13 +12,13 @@ This repository contains **MCP (Model Context Protocol) servers** . Each folder 
    - Retrieves LinkedIn profile data via an external API from RapidAPI.  
    - Enables AI models to process professional profile insights.
   
-3. **Fetch PubMed Article Server** 🔗
-   - Retrieves articles from PubMed given a query.
+3. **Fetch PubMed Article Server** 🔗  
 
-4. **[Roundtable](https://github.com/sinaneshat/roundtable-dashboard)** 🤖
-   - Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer.
-   - 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs.
-   - Remote MCP endpoint: `https://mcp.roundtable.now/mcp` (Streamable HTTP).
+4. **Arch Tools Server** 🛠️  
+   - 61 production-ready AI tools (code analysis, web scraping, image generation, NLP, crypto, search).  
+   - Remote MCP server with x402 USDC micropayments. MCP endpoint: `https://arch-tools-mcp.onrender.com/mcp`  
+   - Website: [archtools.dev](https://archtools.dev)
+   - Retrieves articles from PubMed given a query.  
 
 ## 🛠️ How to Use  
 
